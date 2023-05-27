@@ -1,18 +1,17 @@
 {
   "files": {
-    "main.css": "/WeatherApp/static/css/main.40f60e93.css",
-    "main.js": "/WeatherApp/static/js/main.b73f7a1b.js",
+    "main.css": "/WeatherApp/static/css/main.35656bb1.css",
+    "main.js": "/WeatherApp/static/js/main.a8e6535a.js",
     "static/js/787.c4e7f8f9.chunk.js": "/WeatherApp/static/js/787.c4e7f8f9.chunk.js",
     "static/media/desk.jpg": "/WeatherApp/static/media/desk.891f87a5751a16007071.jpg",
     "static/media/Screenshot 2023-05-06 141146.png": "/WeatherApp/static/media/Screenshot 2023-05-06 141146.d7a815d2e1907d04a238.png",
-    "static/media/logo.svg": "/WeatherApp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/WeatherApp/index.html",
-    "main.40f60e93.css.map": "/WeatherApp/static/css/main.40f60e93.css.map",
-    "main.b73f7a1b.js.map": "/WeatherApp/static/js/main.b73f7a1b.js.map",
+    "main.35656bb1.css.map": "/WeatherApp/static/css/main.35656bb1.css.map",
+    "main.a8e6535a.js.map": "/WeatherApp/static/js/main.a8e6535a.js.map",
     "787.c4e7f8f9.chunk.js.map": "/WeatherApp/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.40f60e93.css",
-    "static/js/main.b73f7a1b.js"
+    "static/css/main.35656bb1.css",
+    "static/js/main.a8e6535a.js"
   ]
 }
