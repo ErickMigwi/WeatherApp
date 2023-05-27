@@ -126,6 +126,15 @@ button:hover{
   background-repeat: no-repeat;
   background-position: center;
 }
+#mainApp{
+  width: 100%;
+  height: 100vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('desk.jpg');
+  
+}
 #spinContainer{
   margin-top: 20vh;
   width: 200px;

@@ -62,7 +62,7 @@ const [weatherData, setWeatherData] = useState(null)
   return (
     <div id='body'>
       <div id='main3'>
-      <h3><NavLink id='navLink' to='/aboutUs'>Contact</NavLink></h3>
+   
       </div>
       
       <div id='main2'>
