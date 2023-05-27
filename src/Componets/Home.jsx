@@ -33,7 +33,7 @@ const [weatherData, setWeatherData] = useState(null)
       try {
         setLoading(true)
         const response = await Axios.get(
-          `http://api.weatherapi.com/v1/forecast.json?key=${accessKey}&q=${city}&days=5`
+          `https://api.weatherapi.com/v1/forecast.json?key=${accessKey}&q=${city}&days=5`
         );
         setWeatherData(response.data);
         console.log(response.data);
